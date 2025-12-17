@@ -1,59 +1,58 @@
 # 🩺 Cardiovascular Disease Predictor
-**End-to-End Machine Learning Web Application**
+**A Full-Stack Machine Learning Web Application**
 
 ---
 
-### 🎓 Academic Context
-* [cite_start]**Institution:** Darshan University [cite: 3, 15]
-* **Instructor:** Prof. Jayesh D. Vagadiya
-* [cite_start]**Project Type:** Semester ML Project [cite: 4]
-* [cite_start]**Objective:** Create a full-stack ML application with a clean UI for prediction and visualization[cite: 6, 7].
+## 👨‍🏫 Project Information
+* **Instructor:** Jayesh D. Vagadiya
+* **Institution:** Darshan University
+* **Course:** Machine Learning Semester Project
+* **Status:** In Progress (11-Week Timeline)
 
 ---
 
-### 🚀 Key Project Features
-* [cite_start]**Custom Algorithm Implementation:** Core training logic implemented from scratch without using high-level ML libraries[cite: 9].
-* [cite_start]**Robust Data Pipeline:** Comprehensive data cleaning, handling of outliers, and feature scaling[cite: 9].
-* [cite_start]**Interactive Dashboard:** Flask-based web interface for real-time user data input and visualization[cite: 6, 7, 9].
-* [cite_start]**Advanced Analytics:** Detailed performance metrics including cross-validation and hyperparameter tuning[cite: 9].
+## 📝 Project Objective
+The goal of this project is to develop a complete end-to-end Machine Learning solution. This includes data exploration, preprocessing, implementing a core algorithm from scratch, and building a web-based user interface for real-time predictions.
+
+### Core Requirements
+* **Manual Implementation:** Core ML algorithm implemented without high-level libraries (like scikit-learn).
+* **Web Framework:** Backend powered by **Flask** or **FastAPI**.
+* **Visualization:** Detailed UI featuring input forms and performance metric graphs.
+* **Deployment:** Final application hosted on a cloud platform.
 
 ---
 
-### 📊 Dataset Overview
-[cite_start]This project utilizes the **Cardiovascular Disease Dataset**[cite: 17, 18].
-* [cite_start]**Data Source:** [Kaggle - Cardiovascular Disease](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset) 
-* [cite_start]**Features Used:** Blood pressure, cholesterol, glucose, and lifestyle factors.
-* **Objective:** Binary classification of cardiovascular health status.
+## 📊 Dataset Detail
+This project utilizes the **Cardiovascular Disease Dataset**.
+* **Dataset Goal:** Predict the presence of cardiovascular disease based on patient metrics.
+* **Features:** Age, Gender, Blood Pressure (Systolic/Diastolic), Cholesterol, Glucose, Smoking, Alcohol, and Physical Activity.
+* **Source:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 ---
 
-### 🛠️ Technology Stack
-* [cite_start]**Language:** Python [cite: 10]
-* [cite_start]**Data Science:** NumPy, Pandas, Scikit-learn, Seaborn [cite: 11]
-* [cite_start]**Visualization:** Matplotlib, Plotly [cite: 11]
-* [cite_start]**Web Framework:** Flask / Fast API [cite: 6]
+## 📅 Development Roadmap
 
----
-
-### 📅 Development Roadmap
-| Phase | Task | Week |
+| Week | Milestone | Focus Area |
 | :--- | :--- | :--- |
-| **I** | [cite_start]Problem Definition & Initial Observations [cite: 9] | 1 |
-| **II** | [cite_start]Data Cleaning, Pre-processing & EDA [cite: 9] | 2 |
-| **III** | [cite_start]**Algorithm Implementation from Scratch** [cite: 9] | 3-4 |
-| **IV** | [cite_start]Model Evaluation & Hyperparameter Tuning [cite: 9] | 5-6 |
-| **V** | [cite_start]Metric Visualization & Graphing [cite: 9] | 7 |
-| **VI** | [cite_start]Flask Setup & Backend Integration [cite: 9] | 8-10 |
-| **VII** | [cite_start]Final Deployment to Hosting Service [cite: 9] | 11 |
+| **1-2** | **Data Engineering** | Problem definition, cleaning, and EDA (handling outliers/missing values). |
+| **3-4** | **Model Creation** | Selecting an algorithm and **implementing it from scratch**. |
+| **5-6** | **Evaluation** | Metric computation, hyperparameter tuning, and cross-validation. |
+| **7** | **Visualization** | Generation of performance graphs and metric analysis. |
+| **8-10**| **Web Development** | Flask/FastAPI setup, frontend UI creation, and backend integration. |
+| **11** | **Finalization** | Deployment to a free hosting site. |
 
 ---
 
-### 📈 Evaluation Criteria
-[cite_start]The project is evaluated based on 10 specific objectives[cite: 9]. [cite_start]Each completed objective contributes 1 mark toward the end-semester evaluation[cite: 16].
+## 🛠️ Technology Stack
+* **Language:** Python
+* **Libraries:** NumPy, Pandas, Matplotlib, Plotly, Seaborn, Scikit-learn (for comparison).
+* **Backend:** Flask / FastAPI
+* **Frontend:** HTML5, CSS3, JavaScript
 
 ---
 
-### 💻 Setup Instructions
-1. **Clone the Repo:** `git clone https://github.com/yourusername/cardio-predictor.git`
-2. **Install Requirements:** `pip install -r requirements.txt`
-3. **Launch App:** `python app.py`
+## 🚀 Getting Started
+
+1. **Clone the project:**
+   ```bash
+   git clone [https://github.com/your-username/cardio-predictor.git](https://github.com/your-username/cardio-predictor.git)
