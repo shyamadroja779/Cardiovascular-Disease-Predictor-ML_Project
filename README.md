@@ -2,7 +2,7 @@
 **A Complete Machine Learning Implementation**
 
 [![University](https://img.shields.io/badge/University-Darshan_University-blue.svg)](https://www.darshan.ac.in/)
-[![Instructor](https://img.shields.io/badge/Instructor-Jayesh_D._Vagadiya-orange.svg)](#)
+[![Instructor](https://img.shields.io/badge/Instructor-Prof.Jayesh_D._Vagadiya-orange.svg)](#)
 
 ---
 
