@@ -7,49 +7,44 @@
 ---
 
 ## 📖 Project Overview
-[cite_start]This project involves building a full-stack Machine Learning application to predict cardiovascular disease[cite: 1, 18]. [cite_start]The core requirement is a "from-scratch" implementation of the ML algorithm, integrated into a web interface using **Flask/FastAPI**[cite: 6, 9].
+This project involves building a full-stack Machine Learning application to predict cardiovascular disease.The core requirement is a "from-scratch" implementation of the ML algorithm, integrated into a web interface using **Flask/FastAPI**.
 
 ### 🎯 Objectives
-* [cite_start]**Data Integrity**: Full cleaning, handling of missing values, and outlier detection[cite: 9].
-* [cite_start]**Manual Implementation**: Developing the training algorithm without using standard ML libraries[cite: 9].
-* [cite_start]**User Interface**: Creating a neat and clean UI for data input and visualization of results[cite: 6, 7].
-* [cite_start]**Deployment**: Hosting the final application on a free hosting platform[cite: 9].
+* **Data Integrity**: Full cleaning, handling of missing values, and outlier detection.
+* **Manual Implementation**: Developing the training algorithm without using standard ML libraries.
+* **User Interface**: Creating a neat and clean UI for data input and visualization of results.
+* **Deployment**: Hosting the final application on a free hosting platform.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-* [cite_start]**Core Logic:** `NumPy`, `Pandas` [cite: 11]
-* [cite_start]**Visualization:** `Matplotlib`, `Seaborn`, `Plotly` [cite: 11]
-* [cite_start]**Backend:** `Flask` or `FastAPI` [cite: 6, 9]
-* [cite_start]**Evaluation:** `Scikit-learn` [cite: 11]
+* **Core Logic:** `NumPy`, `Pandas` 
+* **Visualization:** `Matplotlib`, `Seaborn`, `Plotly` 
+* **Backend:** `Flask` or `FastAPI` 
+* **Evaluation:** `Scikit-learn` 
 
 ---
 
 ## 📅 Roadmap (11-Week Plan)
 
 ### Phase 1: Data & Modeling (Weeks 1-7)
-1.  [cite_start]**Exploration**: Problem definition and dataset summary[cite: 9].
-2.  [cite_start]**Preprocessing**: Data cleaning, categorical encoding, and feature scaling[cite: 9].
-3.  [cite_start]**Core Development**: Algorithm implementation without libraries (Weeks 3-4)[cite: 9].
-4.  [cite_start]**Optimization**: Model evaluation, hyperparameter tuning, and cross-validation[cite: 9].
-5.  [cite_start]**Analytics**: Performance metric visualization (Weeks 7)[cite: 9].
+1.  **Exploration**: Problem definition and dataset summary.
+2.  **Preprocessing**: Data cleaning, categorical encoding, and feature scaling.
+3.  **Core Development**: Algorithm implementation without libraries (Weeks 3-4).
+4.  **Optimization**: Model evaluation, hyperparameter tuning, and cross-validation.
+5.  **Analytics**: Performance metric visualization (Weeks 7).
 
 ### Phase 2: Web & Deployment (Weeks 8-11)
-1.  [cite_start]**Flask Setup**: Establishing the basic application framework[cite: 9].
-2.  [cite_start]**Frontend**: Designing the user input forms and prediction display[cite: 9].
-3.  [cite_start]**Backend Integration**: Connecting the UI to the ML model[cite: 9].
-4.  [cite_start]**Launch**: Deploying the final product to a cloud platform[cite: 9].
+1.  **Flask Setup**: Establishing the basic application framework.
+2.  **Frontend**: Designing the user input forms and prediction display.
+3.  **Backend Integration**: Connecting the UI to the ML model.
+4.  **Launch**: Deploying the final product to a cloud platform.
 
 ---
 
 ## 📁 Dataset Reference
-[cite_start]The project utilizes the **Cardiovascular Disease Dataset** from Kaggle[cite: 18, 19].
+The project utilizes the **Cardiovascular Disease Dataset** from Kaggle.
 > **Objective**: Predict cardiovascular disease presence based on objective, subjective, and examination features.
-
----
-
-## 📝 Evaluation Structure
-As per the guidelines provided by **Prof. [cite_start]Jayesh D. Vagadiya**, evaluation is conducted during regular labs[cite: 16]. [cite_start]Each objective completed carries **1 mark** toward the final semester evaluation[cite: 16].
 
 ---
 
